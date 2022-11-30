@@ -1,1 +1,6 @@
-
+div {
+  width: 200px;
+  border: solid black 2px;
+  color: red;
+  backroud-color: gold;
+}
