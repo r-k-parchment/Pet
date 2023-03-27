@@ -11,11 +11,11 @@ body {
   color: brown;
   width: max-content;
   height: max-content;
-  font-size: 25px;
+  font-size: 50px;
 }
 
 @media only screen and (min-width: 300px) and (max-width: 480px) {
 
-  body {font-size: 25px;}
+  body {font-size:50px;}
   
   }
