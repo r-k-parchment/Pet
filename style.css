@@ -1,5 +1,6 @@
 .container{
-  width: 400px;
+  width: max-content;
+  height: max-content;
   margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
@@ -9,7 +10,7 @@
 body {
   color: brown;
   width: max-content;
-
+  height: max-content;
 }
 
 @media only screen and (min-width: 300px) and (max-width: 480px) {
