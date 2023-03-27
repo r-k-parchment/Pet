@@ -7,7 +7,12 @@
 }
 
 body {
-  font-size: 120;
   color: brown;
-  width: 400px;
+
 }
+
+@media only screen and (min-width: 300px) and (max-width: 480px) {
+
+  body {font-size: 25px;}
+  
+  }
